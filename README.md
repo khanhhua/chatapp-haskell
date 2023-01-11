@@ -1,6 +1,9 @@
 Chatroom
 ====
 
+## Demo
+![Demo video](demo-video.gif)
+
 ## How to start server and connect
 
 ```
